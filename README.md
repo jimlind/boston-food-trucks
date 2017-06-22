@@ -1,2 +1,5 @@
-# boston-food-trucks
-Boston Food Truck Tracker Glitch App
+Boston Food Trucks
+------------------
+
+Built as a playground for React/Redux/ReactRedux/etc
+Things are written for clarity, not performance or "best practices."
